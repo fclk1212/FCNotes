@@ -36,7 +36,15 @@ extension Color {
         )
     }
 }
-
+// MARK: - ShapeStyle Support
+extension ShapeStyle where Self == Color {
+    static var fcLightBlue: Color { Color.fcLightBlue }
+    static var fcSeaGreen: Color { Color.fcSeaGreen }
+    static var fcDarkText: Color { Color.fcDarkText }
+    static var fcLightGray: Color { Color.fcLightGray }
+    static var fcMediumGray: Color { Color.fcMediumGray }
+    static var fcAccent: Color { Color.fcAccent }
+}
 // MARK: - Theme Gradient
 struct FCGradient {
     static let main = LinearGradient(

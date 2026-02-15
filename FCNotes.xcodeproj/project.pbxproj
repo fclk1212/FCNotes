@@ -7,27 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A01001A12C7F0001B2E3D4A5 /* FCNotesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A02C7F0001B2E3D4A5; };
-		A01001A32C7F0001B2E3D4A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A22C7F0001B2E3D4A6; };
-		A01001A52C7F0001B2E3D4A7 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A42C7F0001B2E3D4A7; };
-		A01001A72C7F0001B2E3D4A8 /* Folder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A62C7F0001B2E3D4A8; };
-		A01001A92C7F0001B2E3D4A9 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A82C7F0001B2E3D4A9; };
-		A01001AB2C7F0001B2E3D4AA /* LockScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001AA2C7F0001B2E3D4AA; };
-		A01001AD2C7F0001B2E3D4AB /* NoteListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001AC2C7F0001B2E3D4AB; };
-		A01001AF2C7F0001B2E3D4AC /* NoteEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001AE2C7F0001B2E3D4AC; };
-		A01001B12C7F0001B2E3D4AD /* NoteRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B02C7F0001B2E3D4AD; };
-		A01001B32C7F0001B2E3D4AE /* FolderListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B22C7F0001B2E3D4AE; };
-		A01001B52C7F0001B2E3D4AF /* FolderEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B42C7F0001B2E3D4AF; };
-		A01001B72C7F0001B2E3D4B0 /* CategoryPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B62C7F0001B2E3D4B0; };
-		A01001B92C7F0001B2E3D4B1 /* EmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B82C7F0001B2E3D4B1; };
-		A01001BB2C7F0001B2E3D4B2 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001BA2C7F0001B2E3D4B2; };
-		A01001BD2C7F0001B2E3D4B3 /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001BC2C7F0001B2E3D4B3; };
-		A01001BF2C7F0001B2E3D4B4 /* NotesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001BE2C7F0001B2E3D4B4; };
-		A01001C12C7F0001B2E3D4B5 /* FolderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001C02C7F0001B2E3D4B5; };
-		A01001C32C7F0001B2E3D4B6 /* AuthenticationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001C22C7F0001B2E3D4B6; };
-		A01001C52C7F0001B2E3D4B7 /* Color+Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001C42C7F0001B2E3D4B7; };
-		A01001C72C7F0001B2E3D4B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A01001C62C7F0001B2E3D4B8; };
-		A01001C92C7F0001B2E3D4B9 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A01001C82C7F0001B2E3D4B9; };
+		A01001A12C7F0001B2E3D4A5 /* FCNotesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A02C7F0001B2E3D4A5 /* FCNotesApp.swift */; };
+		A01001A32C7F0001B2E3D4A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A22C7F0001B2E3D4A6 /* ContentView.swift */; };
+		A01001A52C7F0001B2E3D4A7 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A42C7F0001B2E3D4A7 /* Note.swift */; };
+		A01001A72C7F0001B2E3D4A8 /* Folder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A62C7F0001B2E3D4A8 /* Folder.swift */; };
+		A01001A92C7F0001B2E3D4A9 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001A82C7F0001B2E3D4A9 /* Category.swift */; };
+		A01001AB2C7F0001B2E3D4AA /* LockScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001AA2C7F0001B2E3D4AA /* LockScreenView.swift */; };
+		A01001AD2C7F0001B2E3D4AB /* NoteListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001AC2C7F0001B2E3D4AB /* NoteListView.swift */; };
+		A01001AF2C7F0001B2E3D4AC /* NoteEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001AE2C7F0001B2E3D4AC /* NoteEditorView.swift */; };
+		A01001B12C7F0001B2E3D4AD /* NoteRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B02C7F0001B2E3D4AD /* NoteRowView.swift */; };
+		A01001B32C7F0001B2E3D4AE /* FolderListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B22C7F0001B2E3D4AE /* FolderListView.swift */; };
+		A01001B52C7F0001B2E3D4AF /* FolderEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B42C7F0001B2E3D4AF /* FolderEditorView.swift */; };
+		A01001B72C7F0001B2E3D4B0 /* CategoryPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B62C7F0001B2E3D4B0 /* CategoryPickerView.swift */; };
+		A01001B92C7F0001B2E3D4B1 /* EmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001B82C7F0001B2E3D4B1 /* EmptyStateView.swift */; };
+		A01001BB2C7F0001B2E3D4B2 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001BA2C7F0001B2E3D4B2 /* SearchBarView.swift */; };
+		A01001BD2C7F0001B2E3D4B3 /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001BC2C7F0001B2E3D4B3 /* AuthViewModel.swift */; };
+		A01001BF2C7F0001B2E3D4B4 /* NotesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001BE2C7F0001B2E3D4B4 /* NotesViewModel.swift */; };
+		A01001C12C7F0001B2E3D4B5 /* FolderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001C02C7F0001B2E3D4B5 /* FolderViewModel.swift */; };
+		A01001C32C7F0001B2E3D4B6 /* AuthenticationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001C22C7F0001B2E3D4B6 /* AuthenticationService.swift */; };
+		A01001C52C7F0001B2E3D4B7 /* Color+Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01001C42C7F0001B2E3D4B7 /* Color+Theme.swift */; };
+		A01001C72C7F0001B2E3D4B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A01001C62C7F0001B2E3D4B8 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,7 +66,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A01001772C7F0001B2E3D478 /* FCNotes */ = {
+		A01001772C7F0001B2E3D478 = {
 			isa = PBXGroup;
 			children = (
 				A01001D52C7F0001B2E3D4CA /* FCNotes */,
@@ -252,7 +251,7 @@
 				en,
 				Base,
 			);
-			mainGroup = A01001772C7F0001B2E3D478 /* FCNotes */;
+			mainGroup = A01001772C7F0001B2E3D478;
 			productRefGroup = A01001812C7F0001B2E3D482 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -268,7 +267,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A01001C72C7F0001B2E3D4B8 /* Assets.xcassets in Resources */,
-				A01001C92C7F0001B2E3D4B9 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,12 +332,13 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = HU723432LS;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				FRUIT_DEFINES = "";
@@ -409,12 +408,13 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = HU723432LS;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRUIT_DEFINES = "";
@@ -469,7 +469,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
 	};
 	rootObject = A01001782C7F0001B2E3D479 /* Project object */;
 }
