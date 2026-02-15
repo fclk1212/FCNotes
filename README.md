@@ -33,3 +33,9 @@ Minimalist modern tasarım. SF Symbols ikonları ve smooth animasyonlar ile zeng
 ## Lisans
 
 Bu uygulama tamamen ücretsizdir ve hiçbir reklam içermez.
+
+## Görsel
+
+Not Listesi | Klasör ve Kategoriler | Ayarlar
+|:---:|:---:|:---:|
+| ![](https://github.com/fclk1212/FCNotes/blob/main/FCNotes/screenshots/notes.png) | ![](https://github.com/fclk1212/FCNotes/blob/main/FCNotes/screenshots/folder_categories.png) | ![](https://github.com/fclk1212/FCNotes/blob/main/FCNotes/screenshots/settings.png) |
