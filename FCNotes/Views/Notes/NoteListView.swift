@@ -7,7 +7,7 @@ struct NoteListView: View {
     @Query private var folders: [Folder]
     @Query private var categories: [Category]
 
-    let notesViewModel: NotesViewModel
+    @Bindable var notesViewModel: NotesViewModel
     let folderViewModel: FolderViewModel
 
     @State private var showingNewNote = false
