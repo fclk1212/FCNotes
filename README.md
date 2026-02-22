@@ -35,9 +35,9 @@ Minimalist modern design with a soft light blue (#A8D8EA) and sea green (#7EC8C8
 
 ### Screenshots
 
-![Lock Screen](screenshots/lock.png)
-![Note List](screenshots/list.png)
-![Editor](screenshots/editor.png)
+![Folder&Category](https://github.com/fclk1212/FCNotes/tree/main/FCNotes/Resources/Screenshots/folder_category.png)
+![Note List](https://github.com/fclk1212/FCNotes/tree/main/FCNotes/Resources/Screenshots/note_list.png)
+![Settings](https://github.com/fclk1212/FCNotes/tree/main/FCNotes/Resources/Screenshots/settings.png)
 
 ### Getting Started
 
@@ -86,9 +86,9 @@ Açık mavi (#A8D8EA) ve su yeşili (#7EC8C8) renk paletine sahip minimalist mod
 
 ### Ekran Görüntüleri
 
-![Kilit Ekranı](screenshots/lock.png)
-![Not Listesi](screenshots/list.png)
-![Editör](screenshots/editor.png)
+![Klasör&Kategori](https://github.com/fclk1212/FCNotes/tree/main/FCNotes/Resources/Screenshots/folder_category.png)
+![Not Listesi](https://github.com/fclk1212/FCNotes/tree/main/FCNotes/Resources/Screenshots/note_list.png)
+![Ayarlar](https://github.com/fclk1212/FCNotes/tree/main/FCNotes/Resources/Screenshots/settings.png)
 
 ### Kurulum
 
