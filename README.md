@@ -35,10 +35,9 @@ Minimalist modern design with a soft light blue (#A8D8EA) and sea green (#7EC8C8
 
 ### Screenshots
 
-<!-- Add your screenshots here -->
-<!-- ![Lock Screen](screenshots/lock.png) -->
-<!-- ![Note List](screenshots/list.png) -->
-<!-- ![Editor](screenshots/editor.png) -->
+![Lock Screen](screenshots/lock.png)
+![Note List](screenshots/list.png)
+![Editor](screenshots/editor.png)
 
 ### Getting Started
 
@@ -87,10 +86,9 @@ Açık mavi (#A8D8EA) ve su yeşili (#7EC8C8) renk paletine sahip minimalist mod
 
 ### Ekran Görüntüleri
 
-<!-- Ekran görüntülerinizi buraya ekleyin -->
-<!-- ![Kilit Ekranı](screenshots/lock.png) -->
-<!-- ![Not Listesi](screenshots/list.png) -->
-<!-- ![Editör](screenshots/editor.png) -->
+![Kilit Ekranı](screenshots/lock.png)
+![Not Listesi](screenshots/list.png)
+![Editör](screenshots/editor.png)
 
 ### Kurulum
 
